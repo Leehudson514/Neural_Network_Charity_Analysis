@@ -22,6 +22,10 @@
 * **Neural Network Overview**
     * Two layers were implemented with 80 and 30 neurons and both layers were activated with ReLu.
         * This was chosen for the starting point and then was to be adjusted afterwards to achieve optimal accuracy.
+
+
+![goals](https://github.com/Leehudson514/Neural_Network_Charity_Analysis/blob/main/layers.png)
+
     * **Accuracy Target was 75%** 
         * Accuracy level achieved was 73% 
         * The target was not achieved after multiple attempts at adding layers, changing the number of neurons and attempting different activations.  
