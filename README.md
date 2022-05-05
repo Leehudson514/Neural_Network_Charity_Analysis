@@ -2,7 +2,6 @@
 
 ## Overview
 * The purpose of this analysis was to use machine learning to create a neural network that would be able to predict whether applicants would be successful if funded by Alphabet Soup. 
-* 
 ## Results
 ### Data Preprocessing
 * **The main variable that was targeted for this model:** 
@@ -27,8 +26,5 @@
         * Accuracy level achieved was 73% 
         * The target was not achieved after multiple attempts at adding layers, changing the number of neurons and attempting different activations.  
 ## Summary
-* Overall the model did not achieve the desire results of 75% even after multiple attempts of adjustments. Going forward I would recommend the client to test with the random forest classifier because of its capabilities with larger data sets it is less influenced by outliers and it is better with binary data.
-
-
-
-Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.**
+* Overall the model did not achieve the desire results of 75% even after multiple attempts of adjustments. 
+* Going forward I would recommend the client to test with the random forest classifier because of its capabilities with larger data sets it is less influenced by outliers and it is better with binary data which should result in higher accuracy with regards to this data set.
